@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <fragment
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tv_location"
+        class="com.google.android.gms.maps.SupportMapFragment" >
+
+       
+    </fragment>
+     <FrameLayout
+            
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            >
+
+        </FrameLayout>
+      <!--  <ImageButton
+         android:id="@+id/facebook_button"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentBottom="true"
+         android:layout_alignParentRight="true"
+          android:visibility="gone"
+         android:layout_marginBottom="160dp"
+         android:layout_marginRight="16dp"
+          android:layout_above="@+id/message_button"
+         android:background="@drawable/facebook"
+          /> -->
+    <!--  <ImageView 
+         android:layout_height="70dp"
+         android:layout_width="70dp"
+          android:id="@+id/screenimage"
+         android:visibility="invisible"
+         android:background="@drawable/share"/> -->
+
+     
+
+     <ImageButton
+         android:id="@+id/message_button"
+         android:layout_width="70dp"
+         android:layout_height="70dp"
+         android:layout_above="@+id/share_button"
+         android:layout_alignLeft="@+id/share_button"
+         android:background="@drawable/sms"
+         android:visibility="invisible" />
+
+     <ImageButton
+         android:id="@+id/watsapp_button"
+         android:layout_width="70dp"
+         android:layout_height="70dp"
+         android:layout_above="@+id/message_button"
+         android:layout_alignLeft="@+id/message_button"
+         android:layout_marginBottom="05dp"
+         android:background="@drawable/whatsapp"
+         android:visibility="invisible" />
+     <ImageButton
+         android:id="@+id/share_button"
+         android:layout_width="70dp"
+         android:layout_height="70dp"
+         android:layout_alignParentBottom="true"
+         android:layout_alignParentRight="true"
+         android:layout_marginBottom="65dp"
+         android:layout_marginRight="15dp"
+         android:background="@drawable/share" />
+
+<com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+         android:layout_alignParentBottom="true"
+        ads:adUnitId="@string/admobi_adUid_banner_add" />
+
+</RelativeLayout>

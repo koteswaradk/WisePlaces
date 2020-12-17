@@ -1,0 +1,490 @@
+[
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_fragment_intro.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/fragment_intro.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_indicator_dot_grey.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/indicator_dot_grey.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_intro1.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/intro1.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_activity_navigation_drawer_main.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/activity_navigation_drawer_main.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_snapshot_demo.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/snapshot_demo.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_arrow_forward_white_24px.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-hdpi/ic_arrow_forward_white_24px.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_default_indicator.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/default_indicator.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_tool_bar.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/tool_bar.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_about.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_fragment_intro.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/fragment_intro.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_tab_host.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/tab_host.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_progress_indicator.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/progress_indicator.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_done_white_24px.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-hdpi/ic_done_white_24px.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_customdrawerlist.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/customdrawerlist.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_sharecurrentlocation.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/sharecurrentlocation.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_fragment_navigation_drawer_main.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/fragment_navigation_drawer_main.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_customalertdialog.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/customalertdialog.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_wifi.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/wifi.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_customtoast.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/customtoast.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_wifi_click.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/wifi_click.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_findplaces.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/findplaces.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_done_white_24px.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-xxhdpi/ic_done_white_24px.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_about.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/about.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_gradient_spinner.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/gradient_spinner.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_fragment_intro.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/fragment_intro.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_intro.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/intro.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_intro3.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/intro3.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_arrow_forward_white_24px.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-xhdpi/ic_arrow_forward_white_24px.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_intro_layout2.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/intro_layout2.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/anim_rotate.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/anim/rotate.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/anim_toptobottom.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/anim/toptobottom.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_intro_layout2.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/intro_layout2.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_fragment_navigation_drawer_main.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/fragment_navigation_drawer_main.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_fragment_navigation_drawer.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_sample.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/sample.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_customdrawerlist.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/customdrawerlist.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_intro_layout.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/intro_layout.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_slide1.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-hdpi/ic_slide1.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_fragment_navigation_drawer_main.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/fragment_navigation_drawer_main.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_btn_flat_red_selector.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/btn_flat_red_selector.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_wifibefore.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/wifibefore.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-v21_intro_layout2.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-v21/intro_layout2.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_sample.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/sample.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_facebook.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/facebook.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_sharecurrentlocation.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/sharecurrentlocation.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_sms.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/sms.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_navigation_drawer_background.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/navigation_drawer_background.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_snapshot_demo.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/snapshot_demo.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_wifiafter.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/wifiafter.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_fragment_navigation_drawer.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_intro2.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/intro2.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_tool_bar.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/tool_bar.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_intro_layout.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/intro_layout.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_databefore.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/databefore.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_findplaces.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/findplaces.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_customtoast.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/customtoast.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_snapshot_demo.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/snapshot_demo.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_data.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/data.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_intro1.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/intro1.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-xxhdpi_appicon.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-xxhdpi/appicon.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_indicator_dot_white.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/indicator_dot_white.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_about.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/about.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_slide3.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-hdpi/ic_slide3.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_intro1.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/intro1.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_datapack.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/datapack.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_customtoast.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/customtoast.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_progress_indicator.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/progress_indicator.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_dataafter.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/dataafter.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_x.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/x.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_tab_host.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/tab_host.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_bg.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/bg.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_v2.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/v2.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_default_indicator.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/default_indicator.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-xhdpi_appicon.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-xhdpi/appicon.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_intro.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/intro.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_wifiselect.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/wifiselect.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_fragment_navigation_drawer.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_slide2.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-hdpi/ic_slide2.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_customdrawerlist.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/customdrawerlist.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_done_white_24px.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-xhdpi/ic_done_white_24px.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_data_click.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/data_click.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_v3.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/v3.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_activity_navigation_drawer_main.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/activity_navigation_drawer_main.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_x_click.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/x_click.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_navigate_next_white_24dp.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-xxhdpi/ic_navigate_next_white_24dp.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_fragment_layout_one.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/fragment_layout_one.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_share.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/share.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_intro2.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/intro2.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_selector.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/selector.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_progress_indicator.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/progress_indicator.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_intro3.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/intro3.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-mdpi_appicon.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-mdpi/appicon.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_fragment_layout_one.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/fragment_layout_one.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_v4.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/v4.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_sharecurrentlocation.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/sharecurrentlocation.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_tab_host.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/tab_host.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_intro2.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/intro2.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_sample.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/sample.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_close.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/close.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-hdpi_appicon.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-hdpi/appicon.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_findplaces.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/findplaces.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_default_indicator.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/default_indicator.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_intro3.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/intro3.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-v21_intro_layout.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-v21/intro_layout.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-hdpi_intro.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-hdpi/intro.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_whatsapp.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/whatsapp.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_customalertdialog.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/customalertdialog.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout-large_tool_bar.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout-large/tool_bar.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_navigate_next_white_24dp.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-hdpi/ic_navigate_next_white_24dp.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/menu_aboutapp.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/menu/aboutapp.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/anim_bottomtotop.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/anim/bottomtotop.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_fragment_layout_one.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/fragment_layout_one.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_customalertdialog.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/customalertdialog.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/layout_activity_navigation_drawer_main.xml.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/layout/activity_navigation_drawer_main.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable_v1.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable/v1.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_navigate_next_white_24dp.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-xhdpi/ic_navigate_next_white_24dp.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_arrow_forward_white_24px.png.flat",
+        "source": "/Users/koteswara/Documents/Android App GitHub/WisePlaces/app/src/main/res/drawable-xxhdpi/ic_arrow_forward_white_24px.png"
+    }
+]

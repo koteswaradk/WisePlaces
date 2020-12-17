@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A7A9AB"
+    android:layout_weight="10"
+    android:id="@+id/main">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:paddingLeft="32dp"
+        android:layout_weight="3"
+        android:fontFamily="sans-serif-thin"
+        android:textColor="#ffffff"
+        android:paddingRight="32dp"
+        android:textSize="22sp"
+        android:text="WelCome To WisePlaces "/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_weight="5">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:src="@drawable/v1"/>
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textSize="16sp"
+        android:text="Wise Places Used To Find Locations Of Atm,Church,BusStop,Hospitals,Hotels... And You Can Share Address Of Your Current Location Through WhatsApp And SMS[Proper Internet Connection Is Must To Use This App]"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="40dp" />
+</LinearLayout>

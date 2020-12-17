@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>        
+     <string-array name="which_contacts">
+     <item>Calls From All Callers</item>
+     <item>Only From My Contacts</item>
+     <item>Only Starred</item>
+     </string-array>
+              <string-array name="which_contacts_values">
+                  <item>all</item>
+                <item>contacts</item>
+                <item>starred</item> 
+            </string-array>
+                     <!--<string-array name="delay">
+                      <item>2 seconds</item>
+                      <item>4 seconds</item>
+                      <item>6 seconds</item>
+                       <item>8 seconds</item>   
+                       <item>10 seconds</item>    
+                       <item>12 seconds</item>  
+                         </string-array> -->
+               <!--<string-array name="delay_values">
+                 <item>2</item>  
+                  <item>4</item> 
+                  <item>6</item> 
+                  <item>8</item> 
+                  <item>10</item>   
+                  <item>12</item> 
+               </string-array>-->
+ <!--               <string-array name="place_type">
+        <item>airport</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>bus_station</item>        
+        <item>church</item>
+        <item>doctor</item>
+        <item>hospital</item>        
+        <item>mosque</item>
+        <item>movie_theater</item>
+        <item>hindu_temple</item>
+        <item>restaurant</item>
+    </string-array>-->
+    
+    <!--<string-array name="place_type_name">
+        <item>Look For Places Here...</item>
+        <item>Airport</item>
+        <item>ATM</item>
+        <item>Bank</item>
+        <item>Bus Station</item>
+        <item>Church</item>
+        <item>Doctor</item>
+        <item>Hospital</item>
+        <item>Mosque</item>
+        <item>Movie Theater</item>
+        <item>Hindu Temple</item>
+        <item>Restaurant</item>
+    </string-array>-->
+ </resources> 
